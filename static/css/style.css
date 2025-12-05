@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+}
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.card {
+    border: none;
+    border-radius: 10px;
+}
+.main-container {
+    max-width: 900px;
+}
